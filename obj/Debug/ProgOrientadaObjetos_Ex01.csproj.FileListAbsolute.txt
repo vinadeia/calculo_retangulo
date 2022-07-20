@@ -1,0 +1,7 @@
+C:\Users\guilh\source\repos\ProgOrientadaObjetos_Ex01\bin\Debug\ProgOrientadaObjetos_Ex01.exe.config
+C:\Users\guilh\source\repos\ProgOrientadaObjetos_Ex01\bin\Debug\ProgOrientadaObjetos_Ex01.exe
+C:\Users\guilh\source\repos\ProgOrientadaObjetos_Ex01\bin\Debug\ProgOrientadaObjetos_Ex01.pdb
+C:\Users\guilh\source\repos\ProgOrientadaObjetos_Ex01\obj\Debug\ProgOrientadaObjetos_Ex01.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\ProgOrientadaObjetos_Ex01\obj\Debug\ProgOrientadaObjetos_Ex01.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\ProgOrientadaObjetos_Ex01\obj\Debug\ProgOrientadaObjetos_Ex01.exe
+C:\Users\guilh\source\repos\ProgOrientadaObjetos_Ex01\obj\Debug\ProgOrientadaObjetos_Ex01.pdb
